@@ -12,7 +12,6 @@ int main() {
   // get no. of terms from user
   printf("Enter the number of terms: ");
   scanf("%d", &n);
-
   // print the first two terms t1 and t2
   printf("Fibonacci Series: %d, %d, ", t1, t2);
 
